@@ -1,6 +1,6 @@
 # alpha-shop 電商網頁切版
 
-![image](.dist/image/screen.jpg)
+![image](./dist/image/screen.JPG)
 
 ### 介紹
 
