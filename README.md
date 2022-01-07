@@ -1,5 +1,7 @@
 # alpha-shop 電商網頁切版
 
+![image](.dist/image/screen.jpg)
+
 ### 介紹
 
 RWD網頁切版練習，以375px為寬螢幕與手機螢幕的切點
