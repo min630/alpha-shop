@@ -1,5 +1,7 @@
 # alpha-shop 電商網頁切版
 
+網頁版：https://min630.github.io/alpha-shop/
+
 ![image](./dist/image/screen.JPG)
 
 ### 介紹
