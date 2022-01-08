@@ -1,7 +1,5 @@
 # alpha-shop 電商網頁切版
 
-網頁版：https://min630.github.io/alpha-shop/
-
 ![image](./dist/image/screen.JPG)
 
 ### 介紹
@@ -19,20 +17,9 @@ RWD網頁切版練習，以375px為寬螢幕與手機螢幕的切點
 5. footer：在小螢幕不顯示。
 
 
-### 安裝流程
+### 網頁連結
 
-1.複製或下載專案
-   ```
-   git clone https://github.com/min630/express-task.git
-   ```
-  
-2.透過終端機 terminal 進入專案資料夾
-
-3.輸入以下指令安裝所需套件
-   ```
-   npm install
-   ```
-4.本專案沒有設定路由，請使用網頁編輯工具如：VScode開啟
+  https://min630.github.io/alpha-shop/
 
 ### 開發工具
 
